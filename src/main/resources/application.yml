@@ -1,0 +1,10 @@
+
+#Estos es para Sawagger
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+swagger:
+  api:
+    version: 1.0
